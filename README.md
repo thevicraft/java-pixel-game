@@ -1,7 +1,6 @@
 # Java-Pixel-Game
 
 + This **Java Pixel Game** has been programmed in **Java** and is a current **work-in-progress**!
-+ Please consider the fact that due to danger of plagiarism **I will not upload the source code**.
 
 ## Download
 + If you wish to download this game, you can do this at [Releases](https://github.com/thevicraft/java-pixel-game/releases) tab.
