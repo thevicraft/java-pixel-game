@@ -71,3 +71,5 @@ This game has been fully developed by thevicraft.
 + *LibraryLWJGLOpenAL.jar*
 + *SoundSystemJPCT.jar*
 + *TimingFramework-0.55.jar*
+
++ Credit for main menu pixelart background image map: [here](https://www.deviantart.com/chaoticcherrycake/art/Map-005-375439465)
