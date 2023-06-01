@@ -18,7 +18,7 @@
 ### License
 + It is **forbidden** to **spread** this game under another name than the original author!
 + If you wish to share the game, **credit the author** or link to this [github respository](https://github.com/thevicraft/java-pixel-game)!
-+ It is **not allowed** to **manipulate**, **share**, or **sell** in an illegal way:
++ It is **not allowed** to **spread** **manipulated** parts, or sell any parts of:
     + the entire game
     + any game parts
     + game textures
@@ -26,7 +26,7 @@
     + any game resources
 
 ## Author
-This game has been fully developed by thevicraft.
+This game has been developed by thevicraft.
 + **Discord**: [here](https://discord.com/invite/pXDxjKB7q3)
 + **Youtube**: [here](https://www.youtube.com/channel/UCjiP-NZ-BqZiH9IlEW-shLw)
 + **SimpleCalculator** (other coding project): [SimpleCalculator](https://github.com/thevicraft/Calculator)
